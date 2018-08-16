@@ -23,4 +23,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 [cc-by-sa-logo]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [anthracite_small]: https://github.com/db47h/free42skins/blob/master/Anthracite_small.png?raw=true
-[anthraciteC_small]: https://github.com/db47h/free42skins/blob/master/Anthracite_small.png?raw=true
+[anthraciteC_small]: https://github.com/db47h/free42skins/blob/master/AnthraciteC_small.png?raw=true
