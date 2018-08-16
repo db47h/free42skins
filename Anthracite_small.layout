@@ -1,5 +1,7 @@
 # Anthracite HP-42S skin for Free42 on desktop
-# By Denis Bernard
+# By Denis Bernard. 
+# Source XCF file available at https://github.com/db47h/free42skins
+# License: https://creativecommons.org/licenses/by-sa/4.0/
 
 Skin: 0,0,294,415
 Display: 16,36 2 3 a5b1a5 000022
