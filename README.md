@@ -4,7 +4,10 @@
 
  A small-ish (294x415) desktop skin for [free42] by Thomas Okken. Very much inspired by go41cx's skin.
 
-![anthracite_small]
+Comes in two flavors, Anthracite_small has the shift function names on the keys and AnthraciteC_small has them
+above the keys (classic layout).
+
+![Anthracite small skin][anthracite_small] ![Anthracite classic small skin][anthraciteC_small]
 
 ## Anthracite
 
@@ -19,4 +22,5 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 [free42]: http://thomasokken.com/free42/
 [cc-by-sa-logo]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
-[anthracite_small]: https://github.com/db47h/free42skins/blob/master/screenshot_small.png?raw=true
+[anthracite_small]: https://github.com/db47h/free42skins/blob/master/Anthracite_small.png?raw=true
+[anthraciteC_small]: https://github.com/db47h/free42skins/blob/master/Anthracite_small.png?raw=true
