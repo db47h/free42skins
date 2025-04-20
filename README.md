@@ -13,6 +13,8 @@ Both also have a yellow variant for the hardcore HP41 fans:
 
 ![Anthracite/Yellow small skin][anthracite_small_Yellow] ![Anthracite/Yellow classic small skin][anthraciteC_small_Yellow]
 
+There are now brighter variants (with a \_HC suffix) for users of dark desktop themes where Free42 dims the skin.
+
 ## Anthracite
 
 TBD. A 1080x1920 version for smartphones.
